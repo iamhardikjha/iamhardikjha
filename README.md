@@ -1,5 +1,4 @@
-https://user-images.githubusercontent.com/78531860/136337852-c8abb260-8317-4e3a-9710-ccb5fe78278a.mp4
-
+![Hardik](https://user-images.githubusercontent.com/78531860/136509927-07525c51-a743-4174-8b78-6aa14a8698da.png)
 
 
 - 🔭 I’m currently working on: **Something new**
@@ -7,5 +6,5 @@ https://user-images.githubusercontent.com/78531860/136337852-c8abb260-8317-4e3a-
 - 👯 I’m looking to collaborate on: **With Some New Projects**
 - 💬 Ask me about: **Graphics Design, Web Development**
 - 📫 How to reach me: [jhahardik535@gmail.com](jhahardik535@gmail.com)
-- 😄 Pronouns: **He/Him/His**
 - ⚡ Fun fact: **I am just 13 years old, and big level things**
+- 😄 Pronouns: **He/Him/His**
