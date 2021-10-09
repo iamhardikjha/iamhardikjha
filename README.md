@@ -6,5 +6,5 @@
 - 👯 I’m looking to collaborate on: **With Some New Projects**
 - 💬 Ask me about: **Graphics Design, Web Development**
 - 📫 How to reach me: [jhahardik535@gmail.com](jhahardik535@gmail.com)
-- ⚡ Fun fact: **I am just 13 years old, and big level things**
+- ⚡ Fun fact: **I am just 13 years old, and think big level things**
 - 😄 Pronouns: **He/Him/His**
