@@ -1,6 +1,3 @@
-![Hardik](https://user-images.githubusercontent.com/78531860/136509927-07525c51-a743-4174-8b78-6aa14a8698da.png)
-
-
 - 🔭 I’m currently working on: **Something new**
 - 🌱 I’m currently learning: **React.JS**
 - 👯 I’m looking to collaborate on: **With Some New Projects**
